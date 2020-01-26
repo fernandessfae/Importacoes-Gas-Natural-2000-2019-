@@ -20,3 +20,4 @@ Link do dataset: http://dados.gov.br/dataset/importacoes-gas-natural
 ![Figure_10](https://user-images.githubusercontent.com/48027825/73140179-c1bc6000-4054-11ea-948f-872853f84163.png)
 ![Figure_11](https://user-images.githubusercontent.com/48027825/73140180-c1bc6000-4054-11ea-825b-0d689f292808.png)
 ![Figure_12](https://user-images.githubusercontent.com/48027825/73140181-c1bc6000-4054-11ea-9981-c957847e7089.png)
+![Figure_1](https://user-images.githubusercontent.com/48027825/73141333-b6bbfc80-4061-11ea-87c1-f86b4b125c7c.png)
