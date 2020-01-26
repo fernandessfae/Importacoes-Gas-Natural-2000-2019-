@@ -110,3 +110,37 @@ plt.xticks(data['ANO'])
 plt.xlabel('Anos')
 plt.ylabel('Gás natural importado (mil m³)')
 plt.title('Quantidade de gás natural importado em dezembro (mil m³)')
+
+#Histograma com todos os meses de janeiro a dezembro de 2000 a 2019
+barWidth = 0.05
+plt.figure(figsize = (20, 5))
+r1 = np.arange(len(data.iloc[:, 0]))
+r2 = [x + barWidth for x in r1]
+r3 = [x + barWidth for x in r2]
+r4 = [x + barWidth for x in r3]
+r5 = [x + barWidth for x in r4]
+r6 = [x + barWidth for x in r5]
+r7 = [x + barWidth for x in r6]
+r8 = [x + barWidth for x in r7]
+r9 = [x + barWidth for x in r8]
+r10 = [x + barWidth for x in r9]
+r11 = [x + barWidth for x in r10]
+r12 = [x + barWidth for x in r11]
+plt.bar(r1, data_jan.iloc[:, 1], width = barWidth, color = '#0000FF', label = 'JAN')
+plt.bar(r2, data_fev.iloc[:, 1], width = barWidth, color = '#6495ED', label = 'FEV')
+plt.bar(r3, data_mar.iloc[:, 1], width = barWidth, color = '#4169E1', label = 'MAR')
+plt.bar(r4, data_abr.iloc[:, 1], width = barWidth, color = '#1E90FF', label = 'ABR')
+plt.bar(r5, data_mai.iloc[:, 1], width = barWidth, color = '#00BFFF', label = 'MAI')
+plt.bar(r6, data_jun.iloc[:, 1], width = barWidth, color = '#87CEFA', label = 'JUN')
+plt.bar(r7, data_jul.iloc[:, 1], width = barWidth, color = '#87CEEB', label = 'JUL')
+plt.bar(r8, data_ago.iloc[:, 1], width = barWidth, color = '#ADD8E6', label = 'AGO')
+plt.bar(r9, data_set.iloc[:, 1], width = barWidth, color = '#4682B4', label = 'SET')
+plt.bar(r10, data_out.iloc[:, 1], width = barWidth, color = '#B0C4DE', label = 'OUT')
+plt.bar(r11, data_nov.iloc[:, 1], width = barWidth, color = '#836FFF', label = 'NOV')
+plt.bar(r12, data_dez.iloc[:, 1], width = barWidth, color = '#6959CD', label = 'DEZ')
+plt.xticks([r + barWidth for r in range(len(data_jan.iloc[:, 1]))], data['ANO'], rotation = 'vertical')
+plt.xlabel('Anos')
+plt.ylabel('Importação gás natural (mil m³)')
+plt.title('Quantidade de gás natural importado (2000 - 2019)')
+plt.legend(loc = 'best')
+plt.show() 
