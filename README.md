@@ -1,5 +1,5 @@
 # Importações gás natural em mil m³ (2000-2019)
-Mostra o quanto de gás natural foi importado pelo Brasil nos anos de 1990 até 2019, e as possiveis tendências para os próximos anos.<br/>
+Mostra o quanto de gás natural foi importado pelo Brasil nos anos de 2000 até 2019, e as possiveis tendências para os próximos anos.<br/>
 Link do dataset: http://dados.gov.br/dataset/importacoes-gas-natural
 
 ## A ideia é verificar se existe alguma informação importante para essa base de dados.
