@@ -21,3 +21,13 @@ Link do dataset: http://dados.gov.br/dataset/importacoes-gas-natural
 ![Figure_11](https://user-images.githubusercontent.com/48027825/73140180-c1bc6000-4054-11ea-825b-0d689f292808.png)
 ![Figure_12](https://user-images.githubusercontent.com/48027825/73140181-c1bc6000-4054-11ea-9981-c957847e7089.png)
 ![Figure_1](https://user-images.githubusercontent.com/48027825/73141333-b6bbfc80-4061-11ea-87c1-f86b4b125c7c.png)
+
+- Bimestral
+
+![Figure_1](https://user-images.githubusercontent.com/48027825/73143567-846ac900-407a-11ea-9624-eaf1b8a96d02.png)
+![Figure_2](https://user-images.githubusercontent.com/48027825/73143568-846ac900-407a-11ea-927b-9b9522739d41.png)
+![Figure_3](https://user-images.githubusercontent.com/48027825/73143562-83399c00-407a-11ea-9a25-7e582732c17e.png)
+![Figure_4](https://user-images.githubusercontent.com/48027825/73143563-83399c00-407a-11ea-8eae-8e05e93b156d.png)
+![Figure_5](https://user-images.githubusercontent.com/48027825/73143564-83d23280-407a-11ea-9a1a-d3a094eaefe8.png)
+![Figure_6](https://user-images.githubusercontent.com/48027825/73143565-83d23280-407a-11ea-9765-5641b3cbee86.png)
+![Figure_7](https://user-images.githubusercontent.com/48027825/73143566-83d23280-407a-11ea-9ab7-16bc267e0718.png)
