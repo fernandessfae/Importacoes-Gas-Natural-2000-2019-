@@ -47,3 +47,12 @@ OBS: Como no momento que estava fazendo as análises desses dados, o valor refer
 ![Figure_10](https://user-images.githubusercontent.com/48027825/73206513-cbf86000-4121-11ea-8e09-e765f04a7394.png)
 ![Figure_11](https://user-images.githubusercontent.com/48027825/73206516-cc90f680-4121-11ea-8990-783627ec2a1d.png)
 ![Figure_12](https://user-images.githubusercontent.com/48027825/73206518-cc90f680-4121-11ea-90e4-3cf34455b6ff.png)
+
+- Bimestral
+
+![Figure_1](https://user-images.githubusercontent.com/48027825/73214824-aecb8d80-4131-11ea-9a27-6c83ae483bf7.png)
+![Figure_2](https://user-images.githubusercontent.com/48027825/73214826-aecb8d80-4131-11ea-9928-2bb663be031b.png)
+![Figure_3](https://user-images.githubusercontent.com/48027825/73214827-aecb8d80-4131-11ea-8d9a-22e6530802fc.png)
+![Figure_4](https://user-images.githubusercontent.com/48027825/73214828-af642400-4131-11ea-9f0c-2ae3a290c1b8.png)
+![Figure_5](https://user-images.githubusercontent.com/48027825/73214829-af642400-4131-11ea-8632-0b3cb4278b7e.png)
+![Figure_6](https://user-images.githubusercontent.com/48027825/73214830-af642400-4131-11ea-9f38-99e84488511b.png)
