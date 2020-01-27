@@ -35,7 +35,7 @@ plt.xlabel('Anos')
 plt.ylabel('Gás natural importado (mil m³)')
 plt.title('Quantidade de gás natural importado no 3º quadrimestre (mil m³)')
 
-#Histograma com todos os trimestres de 2000 a 2019
+#Histograma com todos os quadrimestres de 2000 a 2019
 barWidth = 0.2
 plt.figure(figsize = (20, 5))
 r1 = np.arange(len(data.iloc[:, 0]))
