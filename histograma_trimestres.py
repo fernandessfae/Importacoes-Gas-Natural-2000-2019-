@@ -52,8 +52,6 @@ r1 = np.arange(len(data.iloc[:, 0]))
 r2 = [x + barWidth for x in r1]
 r3 = [x + barWidth for x in r2]
 r4 = [x + barWidth for x in r3]
-r5 = [x + barWidth for x in r4]
-r6 = [x + barWidth for x in r5]
 plt.bar(r1, t1.iloc[:, 1], width = barWidth, color = '#8A2BE2', label = '1º trimestre')
 plt.bar(r2, t2.iloc[:, 1], width = barWidth, color = '#4B0082', label = '2º trimestre')
 plt.bar(r3, t3.iloc[:, 1], width = barWidth, color = '#9400D3', label = '3º trimestre')
