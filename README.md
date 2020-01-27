@@ -21,3 +21,7 @@ Link do dataset: http://dados.gov.br/dataset/importacoes-gas-natural
 - Quadrimestral
 
 ![Figure_4](https://user-images.githubusercontent.com/48027825/73144360-c3514c80-4083-11ea-8339-243341851256.png)
+
+- Semestral
+
+![Figure_1](https://user-images.githubusercontent.com/48027825/73144739-7a9b9280-4087-11ea-92bc-f89c1af8ff5d.png)
