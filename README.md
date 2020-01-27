@@ -30,3 +30,20 @@ OBS: Como no momento que estava fazendo as análises desses dados, o valor refer
 - Anual
 
 ![Figure_1](https://user-images.githubusercontent.com/48027825/73145028-d2d39400-4089-11ea-92a2-b845c9e2d5b5.png)
+
+## Decomposição da série temporal
+
+- Mensal
+
+![Figure_1](https://user-images.githubusercontent.com/48027825/73206500-cac73300-4121-11ea-86a8-d35921582fd6.png)
+![Figure_2](https://user-images.githubusercontent.com/48027825/73206502-cac73300-4121-11ea-8e03-ef19db5c44e1.png)
+![Figure_3](https://user-images.githubusercontent.com/48027825/73206503-cb5fc980-4121-11ea-9ae9-ffcfc8174797.png)
+![Figure_4](https://user-images.githubusercontent.com/48027825/73206504-cb5fc980-4121-11ea-9601-e688ba7ddd7c.png)
+![Figure_5](https://user-images.githubusercontent.com/48027825/73206506-cb5fc980-4121-11ea-93fa-a8dcc337fea4.png)
+![Figure_6](https://user-images.githubusercontent.com/48027825/73206508-cb5fc980-4121-11ea-8553-8171d7559cd3.png)
+![Figure_7](https://user-images.githubusercontent.com/48027825/73206509-cbf86000-4121-11ea-90da-8a927c61b87e.png)
+![Figure_8](https://user-images.githubusercontent.com/48027825/73206511-cbf86000-4121-11ea-9efa-77b9bc78493e.png)
+![Figure_9](https://user-images.githubusercontent.com/48027825/73206512-cbf86000-4121-11ea-9b08-e13c3d572816.png)
+![Figure_10](https://user-images.githubusercontent.com/48027825/73206513-cbf86000-4121-11ea-8e09-e765f04a7394.png)
+![Figure_11](https://user-images.githubusercontent.com/48027825/73206516-cc90f680-4121-11ea-8990-783627ec2a1d.png)
+![Figure_12](https://user-images.githubusercontent.com/48027825/73206518-cc90f680-4121-11ea-90e4-3cf34455b6ff.png)
