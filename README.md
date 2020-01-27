@@ -39,3 +39,10 @@ Link do dataset: http://dados.gov.br/dataset/importacoes-gas-natural
 ![Figure_3](https://user-images.githubusercontent.com/48027825/73143987-386e5300-407f-11ea-9711-a2f2090ee95f.png)
 ![Figure_4](https://user-images.githubusercontent.com/48027825/73143988-386e5300-407f-11ea-953b-4d5a6984bf33.png)
 ![Figure_5](https://user-images.githubusercontent.com/48027825/73143989-386e5300-407f-11ea-9a4c-44397ae7a5f2.png)
+
+- Quadrimestral
+
+![Figure_1](https://user-images.githubusercontent.com/48027825/73144357-c2b8b600-4083-11ea-9fc3-5977bf4f8e56.png)
+![Figure_2](https://user-images.githubusercontent.com/48027825/73144358-c2b8b600-4083-11ea-8fe6-fbd144177c33.png)
+![Figure_3](https://user-images.githubusercontent.com/48027825/73144359-c3514c80-4083-11ea-9a1c-d51141cfa455.png)
+![Figure_4](https://user-images.githubusercontent.com/48027825/73144360-c3514c80-4083-11ea-8339-243341851256.png)
