@@ -9,27 +9,27 @@ OBS: Como no momento que estava fazendo as análises desses dados, o valor refer
 
 - Mensal
 
-![Figure_1](https://user-images.githubusercontent.com/48027825/73141333-b6bbfc80-4061-11ea-87c1-f86b4b125c7c.png)
+![Figure_1](https://user-images.githubusercontent.com/48027825/73208118-a882e480-4124-11ea-8b99-23a0a7c0bf4b.png)
 
 - Bimestral
 
-![Figure_7](https://user-images.githubusercontent.com/48027825/73143566-83d23280-407a-11ea-9ab7-16bc267e0718.png)
+![Figure_2](https://user-images.githubusercontent.com/48027825/73208119-a91b7b00-4124-11ea-9331-41dfbd94047b.png)
 
 - Trimestral
 
-![Figure_5](https://user-images.githubusercontent.com/48027825/73143989-386e5300-407f-11ea-9a4c-44397ae7a5f2.png)
+![Figure_3](https://user-images.githubusercontent.com/48027825/73208120-a91b7b00-4124-11ea-8013-d5ce6ec77e8b.png)
 
 - Quadrimestral
 
-![Figure_4](https://user-images.githubusercontent.com/48027825/73144360-c3514c80-4083-11ea-8339-243341851256.png)
+![Figure_4](https://user-images.githubusercontent.com/48027825/73208121-a91b7b00-4124-11ea-84dc-9d907ce90f58.png)
 
 - Semestral
 
-![Figure_1](https://user-images.githubusercontent.com/48027825/73144739-7a9b9280-4087-11ea-92bc-f89c1af8ff5d.png)
+![Figure_5](https://user-images.githubusercontent.com/48027825/73208122-a91b7b00-4124-11ea-9e2e-d8d8d8d44a21.png)
 
 - Anual
 
-![Figure_1](https://user-images.githubusercontent.com/48027825/73145028-d2d39400-4089-11ea-92a2-b845c9e2d5b5.png)
+![Figure_6](https://user-images.githubusercontent.com/48027825/73208123-a9b41180-4124-11ea-9b58-a290ce4befea.png)
 
 ## Decomposição da série temporal
 
