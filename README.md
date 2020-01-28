@@ -40,3 +40,7 @@ OBS: Como no momento que estava fazendo as análises desses dados, o valor refer
 - Bimestral
 
 ![Figure_1](https://user-images.githubusercontent.com/48027825/73214824-aecb8d80-4131-11ea-9a27-6c83ae483bf7.png)
+
+- Trimestral
+
+![Figure_1](https://user-images.githubusercontent.com/48027825/73226925-78e9d180-4150-11ea-8f2a-60d3d7285edd.png)
