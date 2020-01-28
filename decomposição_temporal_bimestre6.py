@@ -10,7 +10,7 @@ data = pd.read_csv('importacao-gas-natural-2000-2019-m3.csv', delimiter = ';', d
                    parse_dates = ['ANO'], index_col ='ANO', date_parser = dateparse)
 
 #Criação da coluna bimestral
-data['BIMESTRE2'] = data[['NOV', 'DEZ']].sum(axis=1)
+data['BIMESTRE6'] = data[['NOV', 'DEZ']].sum(axis=1)
 
 #Seleção da coluna bimestral
 b6 = data.iloc[:, 16]
