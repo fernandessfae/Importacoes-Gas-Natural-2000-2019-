@@ -1,5 +1,4 @@
 import pandas as pd
-import matplotlib.pyplot as plt
 from statsmodels.tsa.stattools import adfuller
 
 def teste_adf(y):
