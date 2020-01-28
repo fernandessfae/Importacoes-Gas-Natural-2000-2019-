@@ -31,6 +31,10 @@ OBS: Como no momento que estava fazendo as análises desses dados, o valor refer
 
 ![Figure_6](https://user-images.githubusercontent.com/48027825/73208123-a9b41180-4124-11ea-9b58-a290ce4befea.png)
 
+## Gráfico dos dados anuais
+
+![Figure_1](https://user-images.githubusercontent.com/48027825/73303356-1b5b9080-41f5-11ea-9227-063fa79522e6.png)
+
 ## Decomposição da série temporal
 
 - Mensal
