@@ -27,7 +27,7 @@ data['BIMESTRE4'] = data[['JUL', 'AGO']].sum(axis=1)
 data['BIMESTRE5'] = data[['SET', 'OUT']].sum(axis=1)
 data['BIMESTRE6'] = data[['NOV', 'DEZ']].sum(axis=1)
 
-#Seleção da coluna bimestral
+#Seleção das colunas bimestrais
 b1 = data.iloc[:, 16]
 b2 = data.iloc[:, 17]
 b3 = data.iloc[:, 18]
@@ -35,7 +35,7 @@ b4 = data.iloc[:, 19]
 b5 = data.iloc[:, 20]
 b6 = data.iloc[:, 21]
 
-#Fazer o teste de estacionaridade da série temporal de todos os meses
+#Fazer o teste de estacionaridade da série temporal de todos os bimestres
 teste_adf(b1)
 teste_adf(b2)
 teste_adf(b3)
