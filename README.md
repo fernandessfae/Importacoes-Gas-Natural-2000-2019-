@@ -52,3 +52,7 @@ OBS: Como no momento que estava fazendo as análises desses dados, o valor refer
 - Semestral
 
 ![Figure_1](https://user-images.githubusercontent.com/48027825/73229659-4bedec80-4159-11ea-8cca-25028fb5380b.png)
+
+- Anual
+
+![Figure_1](https://user-images.githubusercontent.com/48027825/73229964-71c7c100-415a-11ea-89eb-4a8204872b9b.png)
