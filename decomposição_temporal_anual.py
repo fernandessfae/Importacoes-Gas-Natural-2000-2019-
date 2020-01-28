@@ -11,7 +11,7 @@ data = pd.read_csv('importacao-gas-natural-2000-2019-m3.csv', delimiter = ';', d
 
 anual = data.iloc[:, 15]
 
-#Visualização do gráfico da série tanual
+#Visualização do gráfico da série anual
 plt.figure(figsize = (10, 5))
 plt.xlabel('Anos')
 plt.ylabel('Quantidade de gás natural importado no 2º semestre (mil m³)')
