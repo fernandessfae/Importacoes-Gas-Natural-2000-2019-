@@ -44,3 +44,7 @@ OBS: Como no momento que estava fazendo as análises desses dados, o valor refer
 - Trimestral
 
 ![Figure_1](https://user-images.githubusercontent.com/48027825/73226925-78e9d180-4150-11ea-8f2a-60d3d7285edd.png)
+
+- Quadrimestral
+
+![Figure_1](https://user-images.githubusercontent.com/48027825/73228416-4393b280-4155-11ea-9f7c-dd502c6681d1.png)
