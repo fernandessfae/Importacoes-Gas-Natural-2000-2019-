@@ -14,7 +14,7 @@ anual = data.iloc[:, 15]
 #Visualização do gráfico da série anual
 plt.figure(figsize = (10, 5))
 plt.xlabel('Anos')
-plt.ylabel('Quantidade de gás natural importado no 2º semestre (mil m³)')
+plt.ylabel('Quantidade de gás natural importado no ano (mil m³)')
 plt.plot(anual)
 
 #Decomposição da série temporal anual
