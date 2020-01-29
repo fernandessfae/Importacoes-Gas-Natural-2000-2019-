@@ -47,11 +47,16 @@ OBS: Como no momento que estava fazendo as análises desses dados, o valor refer
 
 ## Teste de estacionariedade (anual)
 
+**Dickey Fuller e KPSS**
+
 Resultado do Teste Dickey-Fuller para o ano : <br/>
-Teste                     -2.789481<br/>
-Valor p                    0.059792<br/>
- de lags                   8.000000<br/>
- de observações            11.000000<br/>
-Valores críticos (1%)     -4.223238<br/>
-Valores críticos (5%)     -3.189369<br/>
-Valores críticos (10%)    -2.729839
+Teste                    -6.625049e+00<br/>
+Valor p                   5.905020e-09<br/>
+ de lags                  7.000000e+00<br/>
+ de observações           1.000000e+01<br/>
+Valores críticos (1%)    -4.331573e+00<br/>
+Valores críticos (5%)    -3.232950e+00<br/>
+Valores críticos (10%)   -2.748700e+00
+
+H0 = A série não é estacionária. <br/>
+H1 = A série é estacionária.
