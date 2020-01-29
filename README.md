@@ -37,29 +37,13 @@ OBS: Como no momento que estava fazendo as análises desses dados, o valor refer
 
 ## Decomposição da série temporal
 
-- Mensal
-
-![Figure_1](https://user-images.githubusercontent.com/48027825/73206500-cac73300-4121-11ea-86a8-d35921582fd6.png)
-
-- Bimestral
-
-![Figure_1](https://user-images.githubusercontent.com/48027825/73214824-aecb8d80-4131-11ea-9a27-6c83ae483bf7.png)
-
-- Trimestral
-
-![Figure_1](https://user-images.githubusercontent.com/48027825/73226925-78e9d180-4150-11ea-8f2a-60d3d7285edd.png)
-
-- Quadrimestral
-
-![Figure_1](https://user-images.githubusercontent.com/48027825/73228416-4393b280-4155-11ea-9f7c-dd502c6681d1.png)
-
-- Semestral
-
-![Figure_1](https://user-images.githubusercontent.com/48027825/73229659-4bedec80-4159-11ea-8cca-25028fb5380b.png)
-
 - Anual
 
 ![Figure_1](https://user-images.githubusercontent.com/48027825/73229964-71c7c100-415a-11ea-89eb-4a8204872b9b.png)
+
+## Gráfico da série temporal (anual), com diferenciação, para o teste de estacionariedade
+
+![Figure_1](https://user-images.githubusercontent.com/48027825/73398104-97240e80-42c3-11ea-9db4-72cb352f763e.png)
 
 ## Teste de estacionariedade (anual)
 
