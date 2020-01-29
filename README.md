@@ -60,3 +60,14 @@ OBS: Como no momento que estava fazendo as análises desses dados, o valor refer
 - Anual
 
 ![Figure_1](https://user-images.githubusercontent.com/48027825/73229964-71c7c100-415a-11ea-89eb-4a8204872b9b.png)
+
+## Teste de estacionariedade (anual)
+
+Resultado do Teste Dickey-Fuller para o ano : <br/>
+Teste                     -2.789481<br/>
+Valor p                    0.059792<br/>
+ de lags                   8.000000<br/>
+ de observações            11.000000<br/>
+Valores críticos (1%)     -4.223238<br/>
+Valores críticos (5%)     -3.189369<br/>
+Valores críticos (10%)    -2.729839
