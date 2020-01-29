@@ -60,3 +60,16 @@ Valores críticos (10%)   -2.748700e+00
 
 H0 = A série não é estacionária. <br/>
 H1 = A série é estacionária.
+
+Resultado com o teste KPSS para o ano:<br/>
+Status KPSS                                                         0.317492<br/>
+Valor p                                                                  0.1<br/>
+ de lags                                                                  9<br/>
+ de observações           
+Valores críticos (10%)                                                 0.347<br/>
+Valores críticos (5%)                                                  0.463<br/>
+Valores críticos (2.5%)                                                0.574<br/>
+Valores críticos (1%)                                                  0.739
+
+H0 = A série é estacionária. <br/>
+H1 = A série apresenta raiz unitária.
