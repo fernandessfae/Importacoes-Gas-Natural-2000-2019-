@@ -21,12 +21,12 @@ data['BIMESTRE4'] = data[['JUL', 'AGO']].sum(axis = 1)
 data['BIMESTRE5'] = data[['SET', 'OUT']].sum(axis = 1)
 data['BIMESTRE6'] = data[['NOV', 'DEZ']].sum(axis = 1)
 
-b1 = data.iloc[:, [0, 17]]
-b2 = data.iloc[:, [0, 18]]
-b3 = data.iloc[:, [0, 19]]
-b4 = data.iloc[:, [0, 20]]
-b5 = data.iloc[:, [0, 21]]
-b6 = data.iloc[:, [0, 22]]
+b1 = data.iloc[:, 16]
+b2 = data.iloc[:, 17]
+b3 = data.iloc[:, 18]
+b4 = data.iloc[:, 19]
+b5 = data.iloc[:, 20]
+b6 = data.iloc[:, 21]
 
 #Visualização do gráfico e da decomposição da série temporal de cada bimestre
 def decomposicao(series):
