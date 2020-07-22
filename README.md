@@ -24,9 +24,3 @@ A ideia é ver as informações importante dessa base de dados, e verificar o qu
 
 **Anual**
 ![importação anual](https://user-images.githubusercontent.com/48027825/88097673-e6f6da80-cb6e-11ea-84ad-8438ebe144ff.png)
-
-## Decomposição da série temporal
-
-- Anual
-
-![Figure_1](https://user-images.githubusercontent.com/48027825/73229964-71c7c100-415a-11ea-89eb-4a8204872b9b.png)
